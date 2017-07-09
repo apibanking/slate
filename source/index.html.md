@@ -1,11 +1,9 @@
 ---
-title: API Reference
+title: API Banking
 
 language_tabs:
   - shell
   - ruby
-  - python
-  - javascript
 
 toc_footers:
   - <a href='#'>Sign Up for a Developer Key</a>
